@@ -1,0 +1,17 @@
+{
+  "name": "first-node-gcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=screenshot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.7.1",
+    "moment": "^2.27.0",
+    "puppeteer": "^5.2.1"
+  }
+}
